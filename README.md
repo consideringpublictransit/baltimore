@@ -3,7 +3,7 @@ Considering Public Transit
 
 Data and code supporting the paper **Considering Public Transit:  New Insights into job and food access for low-income residents in Baltimore, Md** by Plano, Darby, and Jadud.
 
-The code in this repository is made available under a GPL3 or later license. The full GPL3 license is included in this repository in the file <code>LICENSE-GPL3.txt</code>.
+The code in this repository is made available under a GPL3 or later license. The full GPL3 license is included in this repository in the file <code>gpl-3.0.txt</code>.
 
 The data in this repository (contained within the SQLite and CSV files) is made available under a Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
