@@ -1,7 +1,7 @@
 Considering Public Transit
 ========================
 
-Data and code supporting the paper **Considering Public Transit:  New Insights into job and food access for low-income residents in Baltimore, Md** by Plano, Darby, and Jadud.
+Data and code supporting the paper **Considering Public Transit:  New Insights into job and food access for low-income residents in Baltimore, Md** by Plano, Darby, Shaffer, and Jadud.
 
 The code in this repository is made available under a GPL3 or later license. The full GPL3 license is included in this repository in the file <code>gpl-3.0.txt</code>.
 
