@@ -7,15 +7,9 @@ The code in this repository is made available under a GPL3 or later license. The
 
 The data in this repository (contained within the SQLite and CSV files) is made available under a Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-
+<p align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
-
-<br/>
-
-Citing this Work
-====
-
-TBA.
+</p>
 
 Brief Synopsis
 ====
