@@ -37,3 +37,8 @@ to generate results based on a 45-minute travel window. Both <code>taz.sqlite</c
 Citing this Work
 ====
 TBA
+
+Support
+====
+
+Please ask questions regarding the data and code using the Github "Issues" interface, above. This will email the authors and allow us to generate an archive of questions and answers surrounding the work.
